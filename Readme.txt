@@ -1,4 +1,6 @@
-compile: https://stackoverflow.com/Questions/5456011/how-to-compile-lex-yacc-files-on-windows
+Compilation guide: https://stackoverflow.com/Questions/5456011/how-to-compile-lex-yacc-files-on-windows
+
+Yacc guide: https://www.youtube.com/watch?v=__-wUHG2rfM
 
 Definitions:
 yyin :- the input stream pointer (i.e it points to an input file which is to be scanned or tokenised), however the default input of default main() is stdin .
